@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmousaa&label=Profile%20views&color=0e75b6&style=flat" alt="kmousaa" /> </p>
 
-- 🔭 I’m currently working on **a TSP visualiser**
+- 🔭 I’m currently working on **a Traveling Salesman Problem Algorithm Visualiser**
 
 - 🌱 I’m currently studying **Computer Science at King's College London**
 
