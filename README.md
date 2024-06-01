@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently studying **Computer Science at King's College London**
 
-- 📫 How to reach me **karimmousa202@gmail.com**
-
 - 👨‍💻 Check out my LeetCode profile [here](https://leetcode.com/u/kmousaaa/)
+
+- 📫 How to reach me **karimmousa202@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
